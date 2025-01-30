@@ -36,6 +36,9 @@ The **Student Management System** (SMS) is a web-based application that allows u
 
 
 
-
+## For Access in Browser
+- **URL:** http://localhost:9090/ServletProject_Student-Management-System/login.jsp
+- **username:** admin
+- **password:** admin123
 
 
