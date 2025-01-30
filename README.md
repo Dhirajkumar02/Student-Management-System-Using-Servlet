@@ -24,3 +24,18 @@ The **Student Management System** (SMS) is a web-based application that allows u
 - Apache Tomcat 9.0 or higher
 - Web Browser (for accessing the application)
 
+## Working Image
+
+- ![IMG-20250130-WA0007](https://github.com/user-attachments/assets/d5ebaa00-1755-4121-b032-695d180ab7ef)
+- ![IMG-20250130-WA0003](https://github.com/user-attachments/assets/0c66121c-0f27-4436-bbd9-f188f26a6c04)
+- ![IMG-20250130-WA0005](https://github.com/user-attachments/assets/d0cbeb5e-c795-43c8-b296-6562efaaf376)
+- ![IMG-20250130-WA0004](https://github.com/user-attachments/assets/a0cd42dd-77eb-46f4-bbd9-00d2b987e54e)
+- ![IMG-20250130-WA0006](https://github.com/user-attachments/assets/4a2c4012-1923-40ce-aff0-eb239a467810)
+- ![IMG-20250130-WA0008](https://github.com/user-attachments/assets/16ac96ec-0862-4d60-a85c-b13866bdb2d9)
+- ![IMG-20250130-WA0009](https://github.com/user-attachments/assets/29549bd9-522e-4e9d-864f-083db55316a6)
+
+
+
+
+
+
